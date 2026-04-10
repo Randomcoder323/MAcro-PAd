@@ -1,7 +1,7 @@
 # MAcro-PAd
 
 ## What
-This is a macro pad with 16 keys, two rotary encoders, lcd screne, back mounted leds, and an rp2040 zero. This macro pad will help me with cadding and other shortcuts i will need. I will make it be rgb and try to make each color a row by itslef. I will try to improve my coding skills too.
+This is a macro pad with 16 keys, two rotary encoders, lcd screne, back mounted leds, and an rp2040 zero. This macro pad will help me with cadding and other shortcuts i will need. I will make it be rgb and try to make each color a row by itslef. I will try to improve my coding skills too. The screen is connected using threaded inserts!
 
 ## Why
 I made this to improve my pcb makign skills and because I actully looks forward to this! I used lots of new items like the neo pixel leds and can't wait to see how they turn out!
