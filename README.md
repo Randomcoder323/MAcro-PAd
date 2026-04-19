@@ -17,18 +17,19 @@ I made this to improve my pcb makign skills and because I actully looks forward 
 # Macro Pad Bill of Materials (BOM)
 
 
+| # | Name | Purpose | Qty | Total Cost (USD) | Distributor |
+|---|------|---------|-----|-----------------|-------------|
+| 1 | Brass wire | To clean my soldering iron | 1 | $1.78 | [Aliexpress](https://a.aliexpress.com/_msrrakZ) |
+| 2 | Soldering helping hand | To help hold small items while soldering | 1 | $5.98 | [Aliexpress](https://a.aliexpress.com/_mqU3VNJelping) |
+| 3 | Solder | To keep stuff in place | 1 | $3.22 | [Aliexpress](https://a.aliexpress.com/_mNisFKp) |
+| 4 | 3D Print | To house everything | 1 | $0.00 | [ME](https://github.com/Randomcoder323/MAcro-PAd/tree/main/CAD) |
+| 5 | PCB | To hold and wire all the components | 5 | $5.30 | [JLCPCB](https://JLCPCB.com) |
+| 6 | M2 screws | To hold the case with the threaded inserts | 4 | $2.17 | [Aliexpress](https://www.aliexpress.us/item/3256808523663879.html) |
+| 7 | M2 heat inserts 30pc M2xL2xOD3 | To hold the case | 4 | $3.16 | [Aliexpress](https://www.aliexpress.us/item/3256805885174058.html) |
+| 8 | RP2040 Zero | Microcontroller to control the macro pad | 1 | $2.76 | [Aliexpress](https://www.aliexpress.com/item/3256810343755065.html) |
+| 9 | MX Cherry switches | To type | 16 | $5.78 | [Aliexpress](https://www.aliexpress.com/item/3256810491600900.html) |
+| 10 | 1.3" TFT LCD Display | To add time widget etc. | 1 | $3.90 | [Aliexpress](https://www.aliexpress.com/item/3256807859088652.html) |
+| 11 | SK6812 Mini-E LEDs | For RGB lights | 16 | $3.72 | [Aliexpress](https://www.aliexpress.com/item/3256806790790289.html) |
+| 12 | MX Cherry keycaps | To type | 16 | $3.83 | [Aliexpress](https://www.aliexpress.com/item/3256810359094598.html) |
 
-| Name                           | Purpose                                    | Quantity | Total Cost (USD) | Link | Distributor |
-|--------------------------------|--------------------------------------------|----------|------------------|------|-------------|
-| 3D print                       | Case/enclosure for the macro pad           | 1        | 0.00             | CAD folder in this repo    | ME |
-| PCB                            | To hold and wire all the components        | 5        | 5.30             | https://JLCPCB.com | JLCPCB |
-| M2 screws                      | To hold the case with threaded inserts     | 4        | 2.17             | https://www.aliexpress.us/item/3256808523663879.html | Aliexpress |
-| M2 heat inserts (M2xL2xOD3)    | To secure the case                         | 4        | 3.16             | https://www.aliexpress.us/item/3256805885174058.html | Aliexpress |
-| RP2040 Zero                    | Microcontroller to control the macro pad   | 1        | 2.76             | https://www.aliexpress.com/item/3256810343755065.html | Aliexpress |
-| MX Cherry switches             | For typing input                           | 16       | 5.78             | https://www.aliexpress.com/item/3256810491600900.html | Aliexpress |
-| 1.3" TFT LCD Display           | To display widgets (time, etc.)            | 1        | 3.90             | https://www.aliexpress.com/item/3256807859088652.html | Aliexpress |
-| SK6812 Mini LEDs               | RGB lighting                               | 16       | 3.72             | https://www.aliexpress.com/item/3256806790790289.html | Aliexpress |
-| MX Cherry keycaps              | Keycaps for switches                       | 16       | 3.83             | https://www.aliexpress.com/item/3256810359094598.html | Aliexpress |
-
-**~$32.12 USD**
-
+**Total: $43.30 with tax**
