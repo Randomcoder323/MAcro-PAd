@@ -1,3 +1,4 @@
+<img width="548" height="475" alt="Screenshot 2026-05-14 at 2 36 10 PM" src="https://github.com/user-attachments/assets/b8ef67c3-bc1d-4bed-be57-cd70356a6ac1" />
 # MAcro-PAd
 
 ## What
