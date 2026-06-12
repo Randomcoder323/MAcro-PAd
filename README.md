@@ -8,7 +8,12 @@ I made this to improve my pcb makign skills and because I actully looks forward 
 
 ## PICS
 
-<img width="649" height="488" alt="Screenshot 2026-05-14 at 9 47 27 AM" src="https://github.com/user-attachments/assets/30f51938-9fbb-4b41-99c1-95fc25375331" />
+<img width="953" height="688" alt="image" src="https://github.com/user-attachments/assets/4d6ef668-c6ab-41f4-b589-cf932fcf348a" />
+<img width="975" height="804" alt="image" src="https://github.com/user-attachments/assets/d6321a39-a7bc-4dc5-a7a8-e1b7344adbf4" />
+
+
+<img width="1027" height="747" alt="image" src="https://github.com/user-attachments/assets/17284efe-6083-41ae-bbb1-c889719c6242" />
+
 <img width="548" height="475" alt="Screenshot 2026-05-14 at 2 36 10 PM" src="https://github.com/user-attachments/assets/b8ef67c3-bc1d-4bed-be57-cd70356a6ac1" />
 
 <img width="686" height="486" alt="Screenshot 2026-04-09 at 9 33 47 PM" src="https://github.com/user-attachments/assets/5662cbbd-59c2-4696-b8cc-0e893ca76b98" />
