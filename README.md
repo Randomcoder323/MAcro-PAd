@@ -1,5 +1,21 @@
 # MAcro-PAd
 
+## Build!!
+
+# [<span style="font-size: larger;">Video</span>](www.youtube.com/watch?v=rATBJxR3BcQ)
+
+
+
+I had a small problem in my pcb where the footprint designer ignored a pin for the mcu and therefore it ruined my board, I clutched up a bit and tired to get as much working as possilble.
+
+<img width="3000" height="3000" alt="1000024190" src="https://github.com/user-attachments/assets/a1c72ed0-4e96-4a9c-8a12-e3d6c158a81f" />
+<img width="3000" height="4000" alt="1000023854" src="https://github.com/user-attachments/assets/8200032c-949b-4d7a-805a-bafda5e61785" />
+<img width="3000" height="4000" alt="1000023849" src="https://github.com/user-attachments/assets/4584e445-732f-4b0a-baed-5bb269fca158" />
+<img width="4000" height="3000" alt="1000023848" src="https://github.com/user-attachments/assets/806f1a2a-5d9c-46bc-9b9f-fe0f2af11dc8" />
+<img width="3000" height="3000" alt="1000023820" src="https://github.com/user-attachments/assets/ff762f61-ab11-4a4a-9245-5a9a425dc398" />
+
+
+
 ## What
 This is a macro pad with 16 keys, two rotary encoders, lcd screne, back mounted leds, and an rp2040 zero. This macro pad will help me with cadding and other shortcuts i will need. I will make it be rgb and try to make each color a row by itslef. I will try to improve my coding skills too. The screen is connected using threaded inserts!
 
