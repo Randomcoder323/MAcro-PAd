@@ -2,7 +2,8 @@
 
 ## Build!!
 
-**[<span style="font-size: larger;">Video</span>](www.youtube.com/watch?v=rATBJxR3BcQ)**
+[![Watch the Video](https://youtube.com)](www.youtube.com/watch?v=rATBJxR3BcQ)
+
 
 
 
