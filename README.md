@@ -4,7 +4,7 @@
 
 
 
-[Video] (www.youtube.com/watch?v=rATBJxR3BcQ)
+# Video (www.youtube.com/watch?v=rATBJxR3BcQ)
 
 
 I had a small problem in my pcb where the footprint designer ignored a pin for the mcu and therefore it ruined my board, I clutched up a bit and tired to get as much working as possilble.
